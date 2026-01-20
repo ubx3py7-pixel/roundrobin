@@ -10,7 +10,7 @@ from telegram.ext import (
 from playwright.async_api import async_playwright
 
 # ================= CONFIG =================
-BOT_TOKEN = "PUT_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8264209354:AAGUBDHsLpir61C3CTiQFz6_cWVBWOrczAI"
 
 SESSION_FILE = "ig_session.json"
 SESSIONID_FILE = "sessionid.txt"
